@@ -4,7 +4,7 @@
 
 2. Add buttons next to each list item to delete the item when clicked on its corresponding delete button.
 
-3. When adding a new list item, it automatically adds the delete button next to it (hint: be sure to check if new items are clickable too!)
+3. When adding a new list item, it automatically adds the delete button next to it.
 
 Solution to the DOM events exercise - www.udemy.com/the-complete-web-developer-in-2018
 
