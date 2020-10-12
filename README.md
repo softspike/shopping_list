@@ -11,7 +11,7 @@ Solution to the DOM events exercise - www.udemy.com/the-complete-web-developer-i
 See the result - [here] https://softspike.github.io/shopping_list/
 
 
-![here] (https://softspike.github.io/shopping_list/)
+[![here] (https://softspike.github.io/shopping_list/)] ()
 
 
 
