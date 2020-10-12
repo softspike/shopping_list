@@ -8,7 +8,7 @@
 
 Solution to the DOM events exercise - www.udemy.com/the-complete-web-developer-in-2018
 
-See the result - [![here](https://softspike.github.io/shopping_list/) ](https://softspike.github.io/shopping_list/)
+See the result - [![here]()](https://softspike.github.io/shopping_list/)
 
 
 
